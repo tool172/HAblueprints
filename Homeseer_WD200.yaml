@@ -97,7 +97,7 @@ blueprint:
       default: []
       selector:
         action: {}
-  source_rul: 
+  source_url: https://github.com/tool172/HAblueprints/edit/main/Homeseer_WD200.yaml
 mode: single
 max_exceeded: silent
 variables:
